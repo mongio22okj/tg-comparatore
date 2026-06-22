@@ -48,9 +48,10 @@ header.l-h a:hover .menu-item-text{color:#ffd54a !important;}
 .tg-cta{text-align:center;font-size:14px;font-weight:700;padding:12px;border-radius:11px;text-decoration:none;background:#d82323;color:#fff;display:block;}
 .tg-cta.tg-soon{background:rgba(255,255,255,.12);color:rgba(255,255,255,.55);}
 .tg-how{background:transparent;border:1px solid rgba(255,255,255,.3);color:#fff;border-radius:11px;padding:10px;font-size:13.5px;font-weight:600;cursor:pointer;}
-#tg-comp #tg-foot-sec{max-width:920px;margin:34px auto 0;text-align:center;}
-#tg-comp .tg-trasp{font-size:14px;color:rgba(255,255,255,.85);line-height:1.6;margin-bottom:12px;}
-#tg-comp .tg-nota{font-size:12px;color:rgba(255,255,255,.55);line-height:1.5;border-top:1px solid rgba(255,255,255,.12);padding-top:12px;}
+#tg-comp #tg-foot-sec{max-width:940px;margin:40px auto 0;text-align:center;background:rgba(10,14,34,.66);border:1px solid rgba(255,255,255,.18);border-radius:16px;padding:22px 28px;}
+#tg-comp .tg-trasp{font-size:15px;color:#fff;line-height:1.6;margin-bottom:12px;}
+#tg-comp .tg-trasp b{color:#ffd54a;}
+#tg-comp .tg-nota{font-size:12.5px;color:rgba(255,255,255,.8);line-height:1.55;border-top:1px solid rgba(255,255,255,.2);padding-top:13px;}
 @keyframes tgglow{0%,100%{box-shadow:0 0 0 0 rgba(255,208,46,0);}50%{box-shadow:0 0 18px 2px rgba(255,208,46,.6);}}
 #tg-modal{position:fixed;inset:0;background:rgba(0,0,0,.75);display:none;align-items:center;justify-content:center;z-index:999999;padding:20px;}
 #tg-modal .tg-mbody{position:relative;background:#16161f;border:1px solid rgba(255,255,255,.15);border-radius:18px;max-width:470px;width:100%;padding:28px;max-height:86vh;overflow:auto;color:#fff;}
