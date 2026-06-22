@@ -1,0 +1,7 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="TuGuadagni">
+<rect x="130" y="70" width="340" height="306" rx="68" fill="#ffd02e"/>
+<path d="M196 332 L268 270 L316 312 L405 208" fill="none" stroke="#0b1020" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M368 198 L416 198 L416 246" fill="none" stroke="#0b1020" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="300" y="480" font-size="68" font-weight="900" fill="#ffd02e" font-family="Arial,Helvetica,sans-serif" text-anchor="middle">Tu<tspan fill="#ffffff">Guadagni</tspan></text>
+<text x="300" y="538" font-size="22" font-weight="700" letter-spacing="9" fill="#9fb4d8" font-family="Arial,Helvetica,sans-serif" text-anchor="middle">BONUS · CASHBACK · PROMO</text>
+</svg>
